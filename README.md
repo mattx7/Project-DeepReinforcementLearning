@@ -9,6 +9,7 @@ https://gym.openai.com/docs/
 
 ## References
 
-* _Paper_ - [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/pdf/1312.5602v1.pdf) from DeepMind
-* _Blog Posts_ - [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
-or in short [Write an AI to win at Pong from scratch with Reinforcement Learning](https://medium.com/@dhruvp/how-to-write-a-neural-network-to-play-pong-from-scratch-956b57d4f6e0)
+* [Simple Reinforcement Learning in Tensorflow](https://medium.com/@awjuliani/super-simple-reinforcement-learning-tutorial-part-1-fd544fab149)
+* [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/pdf/1312.5602v1.pdf) from DeepMind (Paper)
+* [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
+or in short [Write an AI to win at Pong from scratch with Reinforcement Learning](https://medium.com/@dhruvp/how-to-write-a-neural-network-to-play-pong-from-scratch-956b57d4f6e0) (Blog Post)
